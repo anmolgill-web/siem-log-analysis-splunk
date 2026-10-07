@@ -1,4 +1,4 @@
-# splunk-security-log-analysis
+# SIEM-security-log-analysis Using Splunk
  Security log analysis and threat detection of a local system (Windows) using Splunk.
 ## 1.) Installed Splunk in Windows
  [Install and Configure Splunk Enterprise](./Install-and-Configure-Splunk-Enterprise.md)
