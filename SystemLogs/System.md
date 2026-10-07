@@ -2,7 +2,8 @@
 # To see System Logs, add system rule in the "inputs.conf" file:
 >[WinEventLog://System] <br>
 disabled = 0 <br>
-start_from = oldest
+start_from = oldest <br>
+current_only = 0
 # See all Event Ids in System
 >index=main sourcetype=WinEventLog:System <br>
 | stats count by EventCode <br>
