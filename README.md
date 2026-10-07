@@ -11,4 +11,8 @@
  [System Logs](./System.md)
 
  ## 4.) Application Logs analysis
+ [Application Logs](./Application.md)
+
+ ## 5.) Powershell Logs analysis
+ [Powershell Logs](./Powershell.md)
 
