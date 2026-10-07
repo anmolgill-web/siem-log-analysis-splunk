@@ -3,3 +3,12 @@
 ## 1.) Installed Splunk in Windows
  [Install and Configure Splunk Enterprise](./Install-and-Configure-Splunk-Enterprise.md)
 
+ ## 2.) Security Logs analysis
+ [Authentication Logs](./Authentication.md)  <br>
+ [Account Logs](./Account-Security.md)
+
+ ## 3.) System Logs analysis
+ [System Logs](./System.md)
+
+ ## 4.) Application Logs analysis
+
