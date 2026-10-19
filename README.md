@@ -84,4 +84,7 @@ The project emphasizes **context-based investigation and event correlation** rat
 
 
 
+# splunk-security-log-analysis
+ Security log analysis and threat detection of a local system (Windows) using Splunk.
+##  Install and Configure Splunk Enterprise
 
